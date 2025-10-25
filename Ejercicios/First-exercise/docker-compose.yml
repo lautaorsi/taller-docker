@@ -1,0 +1,7 @@
+services:
+  service_name:
+    build: .
+    container_name:
+    ports:
+    environment:
+    volumes:
